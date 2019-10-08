@@ -8,11 +8,11 @@ exec --no-startup-id feh --bg-scale /usr/share/backgrounds/Bay.jpg
 popup_during_fullscreen smart
 
 # Assign Programs to workspaces
-assign [class="^Firefox$"]	 workspace 2
-assign [title="Google Chrome"]	 workspace 2
-assign [class="^Eclipse$"]	 workspace 3
-assign [title="PyCharm"]	 workspace 3
-assign [title="IntelliJ IDEA"]	 workspace 3
+assign [class="^Firefox$"]	 2
+assign [title="Google Chrome"]	 2
+assign [class="^Eclipse$"]	 3
+assign [title="PyCharm"]	 3
+assign [title="IntelliJ IDEA"]	 3
 
 # Mod set to Alt Mod1, Mod4 is win key
 set $mod Mod4
