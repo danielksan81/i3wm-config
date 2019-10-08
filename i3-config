@@ -3,7 +3,7 @@
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
 # setting background
-exec --no-startup-id feh --bg-scale /usr/share/backgrounds/Bay.jpg
+exec --no-startup-id feh --bg-scale /usr/share/lubuntu/wallpapers/1804-lubuntu-default-wallpaper-h.png
 
 popup_during_fullscreen smart
 
